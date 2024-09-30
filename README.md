@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/the_kingjulien" target="blank"><img src="https://img.shields.io/twitter/follow/the_kingjulien?logo=twitter&style=for-the-badge" alt="the_kingjulien" /></a> </p>
 
-- 🔭 I’m currently working on **Python and Django projects.**
+- 🔭 I’m currently working on **Python and Django projects**
 
-- 🌱 I’m currently learning **Golang and Typescript.**
+- 🌱 I’m currently learning **Golang and Typescript**
 
-- 👨‍💻 All of my projects are available at [www.babu.cyou](www.babu.cyou).
+- 👨‍💻 All of my projects are available at [www.babu.cyou](https://babu.cyou)
 
-- 💬 Ask me about **Python and Django.**
+- 💬 Ask me about **Python and Django**
 
-- 📄 Know about my experiences [www.babu.cyou](www.babu.cyou).
+- 📄 Know about my experiences [www.babu.cyou](https://babu.cyou)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
