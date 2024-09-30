@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Golang and Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://babusomasundaram.com](https://babusomasundaram.com).
+- 👨‍💻 All of my projects are available at [www.babu.cyou](www.babu.cyou).
 
 - 💬 Ask me about **Python and Django.**
 
-- 📄 Know about my experiences [https://babusomasundaram.com](https://babusomasundaram.com).
+- 📄 Know about my experiences [www.babu.cyou](www.babu.cyou).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
