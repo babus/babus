@@ -28,7 +28,7 @@ keep any of it shippable.
 Most of my work is private. The one worth your time here:
 
 **[Trivandrum Night Drive](https://github.com/babus/trivandrum-night-drive)** —
-374 km² of the real Thiruvananthapuram, baked out of OpenStreetMap into a single
+415 km² of the real Thiruvananthapuram, baked out of OpenStreetMap into a single
 self-contained file. No framework, no bundler, no dependencies, no network calls
 at runtime. Pick a start and a destination, drive, and your trail prints as a
 journey receipt.
