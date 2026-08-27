@@ -1,34 +1,45 @@
-<h1 align="center">Hi 👋, I'm Babu</h1>
-<h3 align="center">Python enthusiast with 10+ years of experience in backend application development from India!</h3>
+## Babu Somasundaram
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babu&label=Profile%20views&color=0e75b6&style=flat" alt="babu" /> </p>
+Co-Founder & Architect at [OGP Labs](https://ogplabs.com). Seventeen years of
+software. Two companies co-founded, one acquired after raising $3.7M with
+Comcast Ventures leading.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babu" alt="babu" /></a> </p>
+I build AI products end to end — architecture through production — and I direct
+and verify software built largely by AI coding agents.
 
-<p align="left"> <a href="https://twitter.com/the_kingjulien" target="blank"><img src="https://img.shields.io/twitter/follow/the_kingjulien?logo=twitter&style=for-the-badge" alt="the_kingjulien" /></a> </p>
+### What I'm building
 
-- 🔭 I’m currently working on **Python and Django projects**
+Two live AI products, where I own every layer:
 
-- 🌱 I’m currently learning **Golang and Typescript**
+- **[Consilo](https://consilo.ai)** — an AI operating system for small
+  businesses: autonomous agents for email, social and calendar, an AI Council
+  running four frontier models against one question in parallel, and a
+  generation suite grounded in the customer's own context.
+- **[DesignDuel](https://designduel.ai)** — AI website and app design that
+  produces every direction at once, in parallel, rather than one candidate at a
+  time.
 
-- 👨‍💻 All of my projects are available at [www.babu.cyou](https://babu.cyou)
+Day to day that means multi-model routing, agent runtimes, retrieval over
+pgvector, structured outputs, streaming inference, and the release gates that
+keep any of it shippable.
 
-- 💬 Ask me about **Python and Django**
+### Public code
 
-- 📄 Know about my experiences [www.babu.cyou](https://babu.cyou)
+Most of my work is private. The one worth your time here:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/babu_somasundaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="babu_somasundaram" height="30" width="40" /></a>
-<a href="https://twitter.com/the_kingjulien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_kingjulien" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/babusomasundaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="babusomasundaram" height="30" width="40" /></a>
-</p>
+**[Trivandrum Night Drive](https://github.com/babus/trivandrum-night-drive)** —
+374 km² of the real Thiruvananthapuram, baked out of OpenStreetMap into a single
+self-contained file. No framework, no bundler, no dependencies, no network calls
+at runtime. Pick a start and a destination, drive, and your trail prints as a
+journey receipt.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Every line on that receipt is computed from geometry — Ramer–Douglas–Peucker
+simplification, a spatial-hash grid for culling, ray-cast collision,
+Sutherland–Hodgman clipping. The only generated sentence is the title. Knowing
+where a model earns its place is most of the job.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babu&show_icons=true&locale=en&layout=compact" alt="babu" /></p>
+→ **[Drive it](https://babus.github.io/trivandrum-night-drive/)** (4.5 MB, best on wifi)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babu&show_icons=true&locale=en" alt="babu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babu&" alt="babu" /></p>
+[babus.github.io](https://babus.github.io/) · [LinkedIn](https://linkedin.com/in/babusomasundaram)
