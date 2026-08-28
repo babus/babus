@@ -38,8 +38,8 @@ simplification, a spatial-hash grid for culling, ray-cast collision,
 Sutherland–Hodgman clipping. The only generated sentence is the title. Knowing
 where a model earns its place is most of the job.
 
-→ **[Drive it](https://babus.github.io/trivandrum-night-drive/)** (4.5 MB, best on wifi)
+→ **[Drive it](https://babu.work/trivandrum-night-drive/)** (4.5 MB, best on wifi)
 
 ---
 
-[babus.github.io](https://babus.github.io/) · [LinkedIn](https://linkedin.com/in/babusomasundaram)
+[babu.work](https://babu.work/) · [LinkedIn](https://linkedin.com/in/babusomasundaram)
